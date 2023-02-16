@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#opp-choice{
+    width: 240px;
+    height: 240px;
+    background-color: cyan;
+    margin-top: 10px;
+}
+#your-choice{
+    width: 240px;
+    height: 240px;
+    background-color: yellow;
+    margin-top: 10px;
+}
+#choices{
+    width: 240px;
+    height: 80px;
+    background-color: greenyellow;
+    margin: auto;
+    margin-top: 10px;
+}
+#choices img{
+    width: 80px;
+    height: 80px;
+}
